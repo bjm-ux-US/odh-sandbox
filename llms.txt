@@ -1,0 +1,17 @@
+# ODH Player Project
+
+> Youth soccer training in Frisco, TX for players aged 8-18. Small-group and private sessions led by former MLS midfielder Coach Omar Holness, focused on long-term speed, strength, and game IQ.
+
+ODH Player Project runs small-group and one-on-one soccer training in Frisco, Texas. Group sessions start at $25; private training is $75/hour. Hours Mon-Fri 4-8pm. Phone +1-469-555-0142.
+
+## Programs
+- [Group sessions](https://bjm-ux-us.github.io/odh-sandbox/group.md): Up to 6 players, $25 per session.
+- [Private training](https://bjm-ux-us.github.io/odh-sandbox/private.md): 1-on-1 coaching, $75/hour.
+- [Mini Kickers](https://bjm-ux-us.github.io/odh-sandbox/mini.md): Ages 4-7, up to 8 players, $20.
+
+## About
+- [Coach Omar Holness](https://bjm-ux-us.github.io/odh-sandbox/coach.md): Former MLS midfielder, certified youth coach.
+- [Contact and location](https://bjm-ux-us.github.io/odh-sandbox/contact.md): 1234 Soccer Way, Frisco, TX 75033.
+
+## Optional
+- [Blog](https://bjm-ux-us.github.io/odh-sandbox/blog.md): Training tips and player updates.
